@@ -1,6 +1,3 @@
-.ipynb_checkpoints/
 __pycache__
-venv
-.idea
-.vscode
-Untitled.ipynb
+.github
+.venv
