@@ -147,7 +147,7 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 `hint: dtype`
 #### 52. Consider a random vector with shape (100,2) representing coordinates, find point by point distances (★★☆)
 `hint: np.atleast_2d, T, np.sqrt`
-#### 53. How to convert a float (32 bits) array into an integer (32 bits) in place?
+#### 53. How to convert a float (32 bits) array into an integer (32 bits) in place? (★★☆)
 `hint: view and [:] =`
 #### 54. How to read the following file? (★★☆)
 ```
@@ -178,7 +178,7 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 `hint: np.bincount | np.add.at`
 #### 65. How to accumulate elements of a vector (X) to an array (F) based on an index list (I)? (★★★)
 `hint: np.bincount`
-#### 66. Considering a (w,h,3) image of (dtype=ubyte), compute the number of unique colors (★★☆)
+#### 66. Considering a (w,h,3) image of (dtype=ubyte), compute the number of unique colors (★★★)
 `hint: np.unique`
 #### 67. Considering a four dimensions array, how to get sum over the last two axis at once? (★★★)
 `hint: sum(axis=(-2,-1))`

@@ -516,7 +516,7 @@ Z = np.random.random((10,2))
 D = scipy.spatial.distance.cdist(Z,Z)
 print(D)
 ```
-#### 53. How to convert a float (32 bits) array into an integer (32 bits) in place?
+#### 53. How to convert a float (32 bits) array into an integer (32 bits) in place? (★★☆)
 
 
 ```python
@@ -686,7 +686,7 @@ I = [1,3,9,3,4,1]
 F = np.bincount(I,X)
 print(F)
 ```
-#### 66. Considering a (w,h,3) image of (dtype=ubyte), compute the number of unique colors (★★☆)
+#### 66. Considering a (w,h,3) image of (dtype=ubyte), compute the number of unique colors (★★★)
 
 
 ```python
