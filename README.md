@@ -1,6 +1,6 @@
-##(My version)
+## (My version)
 
-The exercises were answered by me on the `100_Numpy_exercises_my_solutions.ipynb` file.
+The exercises were completed by me on the `100_Numpy_exercises_my_solutions.ipynb` file.
 
 ---
 ## 100 numpy exercises
